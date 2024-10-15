@@ -1,0 +1,1 @@
+Implementation of a random graph with a given degree distribution, definition of a ferromagnetic Ising model on the graph and study of the phase transition with a MonteCarlo simulation, infer graph properties starting from the interactions of the Ising model (inverse Ising model).
